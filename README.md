@@ -8,7 +8,7 @@ O Chat Firebase é uma aplicação mobile construída com a **API** do [Firebase
 A aplicação consiste em um chat onde o usuário pode trocar mensagens em tempo real, também é possível receber mensagens do tipo Push notification. Além do DataBase a autenticação do usuário é feita pelo Firebase. 
 
 ## Layout mobile 📱
-![Mobile 1](https://github.com/alefsantana/assets/blob/main/chat.gif) ![Mobile 2](https://github.com/alefsantana/assets/blob/main/chat_1.png) ![Mobile 3](https://github.com/alefsantana/assets/blob/main/chat_2.png) ![Mobile 4](https://github.com/alefsantana/assets/blob/main/chat_3.png) ![Mobile 5](https://github.com/alefsantana/assets/blob/main/chat_4.png) 
+![Mobile 1](https://github.com/alefsantana/assets/blob/main/chat_firebase.gif) ![Mobile 2](https://github.com/alefsantana/assets/blob/main/chat_1.png) ![Mobile 3](https://github.com/alefsantana/assets/blob/main/chat_2.png) ![Mobile 4](https://github.com/alefsantana/assets/blob/main/chat_3.png) ![Mobile 5](https://github.com/alefsantana/assets/blob/main/chat_4.png) 
 
 # Tecnologias utilizadas ⚙️
 
