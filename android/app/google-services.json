@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577264497847",
+    "project_id": "alef-chat",
+    "storage_bucket": "alef-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577264497847:android:52c35aee39e5eb24b74932",
+        "android_client_info": {
+          "package_name": "com.example.chat_fire_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577264497847-qgdbsfhgfmf7vq326uuki704poscg1l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQMknBKSaFZ9vZpL9izUyv4tN2urXEjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577264497847-qgdbsfhgfmf7vq326uuki704poscg1l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
